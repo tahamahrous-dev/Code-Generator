@@ -132,4 +132,4 @@ This project automates the generation of efficient and reliable code for interac
 
 ## ©️ Copyright
 
-**© 2025 Taha Mahrous. All rights reserved.**
+**© 2026 Taha Mahrous. All rights reserved.**
