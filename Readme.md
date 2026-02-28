@@ -125,7 +125,7 @@ This project automates the generation of efficient and reliable code for interac
 *Dashboard showing system statistics.*
 
 ### Manage Accounts (`frmChooesTables`)
-![Chooes Tables](Images/chooes-tables.jpg)
+![Chooes Tables](Images/chooses-tables.jpg)
 *Interface for managing Chooes Tables.*
 
 ---
