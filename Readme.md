@@ -117,15 +117,15 @@ This project automates the generation of efficient and reliable code for interac
 ## 📸 Application Screenshots
 
 ### Login Interface (`frmLogin`)
-![Login Form](Images/login.JPG)
+![Login Form](Images/login.jpg)
 *Secure login form with validation and attempt tracking.*
 
 ### Main Dashboard (`frmMain`)
-![Main](Images/main.JPG)
+![Main](Images/main.jpg)
 *Dashboard showing system statistics.*
 
 ### Manage Accounts (`frmChooesTables`)
-![Chooes Tables](Images/chooes-tables.JPG)
+![Chooes Tables](Images/chooes-tables.jpg)
 *Interface for managing Chooes Tables.*
 
 ---
